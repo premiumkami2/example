@@ -33,7 +33,7 @@ from pyrogram.types import ForceReply as reply
 from pyrogram.raw import functions
 
 api_id, api_hash = 13360888, "f9f13233c4bff84f6ee3423f58f796a8"
-token = "5311584364:AAEYSw6-QcWnNoYzuriGp8tYK82j0pfG2No"
+token = "5040347976:AAF64oFykWaSWKKONQS-kJHeAPiZYGx0kWw"
 app = Client("bot", api_id, api_hash, bot_token=token)
 
 numbers = list()
